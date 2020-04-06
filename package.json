@@ -1,0 +1,25 @@
+{
+  "name": "EmployeeTracker",
+  "version": "1.0.0",
+  "description": "This application will serve as a CMS for employees.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjoeldelgado/EmployeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexjoeldelgado/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/alexjoeldelgado/EmployeeTracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
